@@ -2,9 +2,9 @@
 let number = 4.6; // дробное число
 
 
-console.log(4/0); //infinity бесконечность
+console.log(4/0); //infinity - бесконечность
 
-console.log('string'*9); //NaN not a number
+console.log('string'*9); //NaN - not a number
 
 const person = 'Alex'; //строка задаеться через "" '' ``
 
